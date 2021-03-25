@@ -102,7 +102,7 @@ word-spacing: 3px;
 line-height: 30px;
 margin-bottom: 10px;
 display: none;
-/* user-select: none; */
+user-select: none;
 }
 .text-area h2,h3{
     display: inline-block;
