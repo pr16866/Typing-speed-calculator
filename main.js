@@ -11,8 +11,8 @@ let btn=document.querySelector("#btn");
 // let text_area=document.querySelector(".text-area");
 let text_p=document.querySelector("#text-area1");
 
-
-let index=Math.floor(Math.random()*5)
+console.log(questions.length);
+let index=Math.floor(Math.random()*8)
 text_p.innerText=questions[index];
 let para=questions[index];
 
