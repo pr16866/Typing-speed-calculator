@@ -79,7 +79,7 @@ width: 50px;
     50%,100%{
         transform: scale(1.5);
     }
-}
+} 
 .container textarea{
     width: 800px;
    height: 300px;
@@ -103,6 +103,9 @@ line-height: 30px;
 margin-bottom: 10px;
 display: none;
 user-select: none;
+
+
+
 }
 .text-area h2,h3{
     display: inline-block;

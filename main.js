@@ -24,6 +24,7 @@ if(i>0)
    h5[3].innerText=i--;
     btn.style.display="none";
     text_area.style.display="block";
+    
     h5[0].innerText="00";
     h5[1].innerText="00";
     h5[2].innerText="0%";
